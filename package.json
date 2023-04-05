@@ -1,0 +1,21 @@
+{
+  "name": "baculum-color",
+  "displayName": "baculum-color",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "baculum color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/baculum color-color-theme.json"
+      }
+    ]
+  }
+}
