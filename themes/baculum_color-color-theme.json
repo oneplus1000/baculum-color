@@ -482,5 +482,22 @@
                 "foreground": "#70666a"
             }
         },
+        {
+            "scope": [
+                "storage.type.annotation.dart",
+            ],
+            "settings": {
+                "foreground": "#868686",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "variable.language.this.php",
+            ],
+            "settings": {
+                "foreground": "#b2aec9",
+            }
+        }
     ]
 }
