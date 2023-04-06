@@ -1,8 +1,8 @@
 {
   "name": "baculum-color",
   "displayName": "baculum-color",
-  "description": "", 
-  "version": "0.0.1",
+  "description": "",
+  "version": "0.0.2",
   "publisher": "oneplus1000",
   "engines": {
     "vscode": "^1.77.0"
@@ -15,8 +15,8 @@
     "Themes"
   ],
   "repository": {
-    "url" : "https://github.com/oneplus1000/baculum-color.git",
-    "type" : "git"
+    "url": "https://github.com/oneplus1000/baculum-color.git",
+    "type": "git"
   },
   "contributes": {
     "themes": [
