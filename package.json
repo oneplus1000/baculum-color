@@ -1,20 +1,29 @@
 {
   "name": "baculum-color",
   "displayName": "baculum-color",
-  "description": "",
+  "description": "", 
   "version": "0.0.1",
+  "publisher": "oneplus1000",
   "engines": {
     "vscode": "^1.77.0"
+  },
+  "author": {
+    "name": "Wanpat Anantapan",
+    "email": "oneplus1000@gmail.com"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url" : "https://github.com/oneplus1000/baculum-color.git",
+    "type" : "git"
+  },
   "contributes": {
     "themes": [
       {
         "label": "baculum color",
         "uiTheme": "vs-dark",
-        "path": "./themes/baculum color-color-theme.json"
+        "path": "./themes/baculum_color-color-theme.json"
       }
     ]
   }
