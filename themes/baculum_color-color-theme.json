@@ -280,7 +280,7 @@
                 "comment",
                 "meta.link.inline.markdown",
                 "meta.image.inline.markdown",
-                "markup.underline.link"
+                "markup.underline.link",
             ],
             "settings": {
                 "foreground": "#696d70"
@@ -316,7 +316,7 @@
                 "entity.name.type",
             ],
             "settings": {
-                "foreground": "#98E342"
+                "foreground": "#A8DC76"
             }
         },
         {
@@ -355,7 +355,7 @@
                 "keyword.other.DML.sql",
                 "keyword.other.unit.percentage.css",
                 "keyword.other.unit.s.css",
-                "keyword.other.unit.px.css"
+                "keyword.other.unit.px.css",
             ],
             "settings": {
                 "foreground": "#FF6188"
@@ -400,7 +400,7 @@
                 "entity.other.attribute-name.id.css",
                 "entity.other.inherited-class",
                 "entity.name.class",
-                "entity.name.type",
+                //"entity.name.type",
                 "keyword.var",
                 "keyword.struct",
                 "keyword.interface",
@@ -420,12 +420,13 @@
             }
         },
         {
-            "name": "Crayon Purple",
+            "name": "Darker Green",
             "scope": [
                 "support.class",
+                "entity.name.type.ts"
             ],
             "settings": {
-                "foreground": "#A8DC76",
+                "foreground": "#87b160",
             }
         },
         {
