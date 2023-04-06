@@ -197,6 +197,11 @@
         "titleBar.inactiveBackground": "#444444",
         "titleBar.inactiveForeground": "#777777",
         "widget.shadow": "#272821",
+        "notebook.cellBorderColor": "#444444",
+        "notebook.editorBackground": "#272821",
+        "notebook.cellToolbarSeparator": "#444444",
+        "notebook.focusedCellBorder": "#444444",
+        "notebook.focusedEditorBorder": "#8a7ed3"
     },
     "tokenColors": [
         {
