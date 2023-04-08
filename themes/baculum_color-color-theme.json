@@ -5,7 +5,7 @@
         "activityBar.background": "#1d1e19",
         "activityBar.border": "#272727",
         "activityBar.foreground": "#AAAAAA",
-        "activityBarBadge.background": "#FC4384",
+        "activityBarBadge.background": "#272727",
         "badge.background": "#272727",
         "badge.foreground": "#F8F8F2",
         "breadcrumb.activeSelectionForeground": "#AAAAAA",
@@ -156,7 +156,7 @@
         "tab.activeBackground": "#272821",
         "tab.activeBorder": "#FC4384",
         "tab.activeForeground": "#D4D4D4",
-        "tab.border": "#272821",
+        "tab.border": "#1d1e19",
         "tab.hoverBorder": "#FC4384",
         "tab.inactiveBackground": "#272821",
         "tab.inactiveForeground": "#777777",
@@ -490,10 +490,10 @@
         {
             "scope": [
                 "storage.type.annotation.dart",
+                "entity.name.function.decorator.python"
             ],
             "settings": {
-                "foreground": "#868686",
-                "fontStyle": "bold"
+                "foreground": "#929292",
             }
         },
         {
