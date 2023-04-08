@@ -490,7 +490,7 @@
         {
             "scope": [
                 "storage.type.annotation.dart",
-                "entity.name.function.decorator.python"
+                "entity.name.function.decorator.python",
             ],
             "settings": {
                 "foreground": "#929292",
@@ -499,6 +499,8 @@
         {
             "scope": [
                 "variable.language.this.php",
+                "variable.language.special.self.python",
+                "variable.parameter.function.language.special.self.python"
             ],
             "settings": {
                 "foreground": "#b2aec9",
