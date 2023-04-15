@@ -2,7 +2,7 @@
   "name": "baculum-color",
   "displayName": "Baculum Color",
   "description": "",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "publisher": "oneplus1000",
   "engines": {
     "vscode": "^1.77.0"
@@ -21,9 +21,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "baculum color",
+        "label": "Baculum Color",
         "uiTheme": "vs-dark",
         "path": "./themes/baculum_color-color-theme.json"
+      },
+      {
+        "label": "Baculum Color Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/baculum_color-color-darker-theme.json"
       }
     ]
   }
