@@ -1,2 +1,2 @@
-# baculum-color README
-
+# baculum-color
+"Baculum Color" is a syntax highlighting extension for Visual Studio Code. With its sleek and modern design, this extension transforms your code editor into an immersive environment with a dark background and vibrant, bright text colors. Whether you're writing code or working on a project, "Baculum Color" adds a touch of elegance and sophistication to your coding experience. The carefully selected color palette ensures optimal readability and visual contrast, making it easier for you to identify different elements and structures within your code. Say goodbye to bland and monotonous code editors and elevate your coding sessions with "Baculum Color."
