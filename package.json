@@ -2,7 +2,8 @@
   "name": "baculum-color",
   "displayName": "Baculum Color",
   "description": "",
-  "version": "0.0.13",
+  "version": "0.0.14",
+  "icon": "icon.png",
   "publisher": "oneplus1000",
   "engines": {
     "vscode": "^1.77.0"
