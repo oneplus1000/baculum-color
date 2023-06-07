@@ -500,6 +500,23 @@
             "settings": {
                 "foreground": "#877eb4"
             }
+        },
+        {
+            "scope": [
+                "variable.other.object.ts",
+                "variable.other.constant.ts"
+            ],
+            "settings": {
+                "foreground": "#D4D4D4"
+            }
+        },
+        {
+            "scope": [
+                "variable.language.this.ts"
+            ],
+            "settings": {
+                "foreground": "#8a7ed3"
+            }
         }
     ]
 }
