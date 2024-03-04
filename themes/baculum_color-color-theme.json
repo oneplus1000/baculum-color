@@ -240,10 +240,7 @@
         },
         {
             "name": "Underline",
-            "scope": [
-                "entity.name.type",
-                "entity.name.class",
-                "entity.other.inherited-class"
+            "scope": [ 
             ],
             "settings": {
                 "fontStyle": "underline"

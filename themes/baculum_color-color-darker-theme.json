@@ -241,9 +241,6 @@
         {
             "name": "Underline",
             "scope": [
-                "entity.name.type",
-                "entity.name.class",
-                "entity.other.inherited-class"
             ],
             "settings": {
                 "fontStyle": "underline"
