@@ -35,6 +35,11 @@
         "label": "Baculum Color Lightup Comment",
         "uiTheme": "vs-dark",
         "path": "./themes/baculum_color-color-theme-lightup-comment.json"
+      },
+      {
+        "label": "Baculum Color Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/baculum_color-color-theme-minimal-lightup-comment.json"
       }
     ]
   }
