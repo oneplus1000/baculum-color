@@ -2,7 +2,7 @@
   "name": "baculum-color",
   "displayName": "Baculum Color",
   "description": "",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "icon": "icon.png",
   "publisher": "oneplus1000",
   "engines": {
@@ -40,6 +40,11 @@
         "label": "Baculum Color Minimal",
         "uiTheme": "vs-dark",
         "path": "./themes/baculum_color-color-theme-minimal-lightup-comment.json"
+      },
+      {
+        "label": "Baculum Color Minimal 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/baculum_color-color-theme-minimal-lightup-comment-2.json"
       }
     ]
   }

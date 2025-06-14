@@ -201,7 +201,9 @@
         "notebook.editorBackground": "#272821",
         "notebook.cellToolbarSeparator": "#444444",
         "notebook.focusedCellBorder": "#444444",
-        "notebook.focusedEditorBorder": "#8a7ed3"
+        "notebook.focusedEditorBorder": "#8a7ed3",
+        "editorGhostText.background": "#00ff0028",
+        "editorGhostText.foreground": "#888888"
     },
     "tokenColors": [
         {
@@ -240,8 +242,7 @@
         },
         {
             "name": "Underline",
-            "scope": [ 
-            ],
+            "scope": [],
             "settings": {
                 "fontStyle": "underline"
             }
@@ -305,7 +306,8 @@
             "settings": {
                 "foreground": "#c28457"
             }
-        },{
+        },
+        {
             "name": "Straw",
             "scope": [
                 "constant.character",
@@ -315,7 +317,6 @@
                 "foreground": "#d1988c"
             }
         },
-        
         {
             "name": "Sushi",
             "scope": [
@@ -374,7 +375,7 @@
             }
         },
         {
-            "scope": [ 
+            "scope": [
                 "keyword.operator"
             ],
             "settings": {
@@ -419,7 +420,7 @@
                 "storage",
                 "entity.other.attribute-name.id.css",
                 "entity.other.inherited-class",
-                "entity.name.class", 
+                "entity.name.class",
                 "keyword.var",
                 "keyword.struct",
                 "keyword.interface",
@@ -465,14 +466,14 @@
         },
         {
             "scope": [
-                "constant.numeric" 
+                "constant.numeric"
             ],
             "settings": {
                 "foreground": "#e6e2a1"
             }
         },
         {
-            "scope": [ 
+            "scope": [
                 "constant"
             ],
             "settings": {

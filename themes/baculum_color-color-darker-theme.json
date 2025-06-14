@@ -201,7 +201,9 @@
         "notebook.editorBackground": "#20211b",
         "notebook.cellToolbarSeparator": "#444444",
         "notebook.focusedCellBorder": "#444444",
-        "notebook.focusedEditorBorder": "#8a7ed3"
+        "notebook.focusedEditorBorder": "#8a7ed3",
+        "editorGhostText.background": "#00ff0028",
+        "editorGhostText.foreground": "#888888"
     },
     "tokenColors": [
         {
@@ -240,8 +242,7 @@
         },
         {
             "name": "Underline",
-            "scope": [
-            ],
+            "scope": [],
             "settings": {
                 "fontStyle": "underline"
             }
