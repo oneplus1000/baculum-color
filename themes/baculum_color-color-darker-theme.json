@@ -191,7 +191,7 @@
         "textLink.foreground": "#FC4384",
         "textPreformat.foreground": "#AB9CF2",
         "textSeparator.foreground": "#919CB9",
-        "titleBar.activeBackground": "#272727",
+        "titleBar.activeBackground": "#20211B",
         "titleBar.activeForeground": "#D4D4D4",
         "titleBar.border": "#1a1c18",
         "titleBar.inactiveBackground": "#444444",

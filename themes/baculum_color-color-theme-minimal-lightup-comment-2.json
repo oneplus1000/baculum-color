@@ -193,7 +193,7 @@
         "textSeparator.foreground": "#919CB9",
         "titleBar.activeBackground": "#1a1b1f",
         "titleBar.activeForeground": "#D4D4D4",
-        "titleBar.border": "#1a1b1f",
+        "titleBar.border": "#292a2f",
         "titleBar.inactiveBackground": "#1a1b1f",
         "titleBar.inactiveForeground": "#D4D4D4",
         "widget.shadow": "#222328",
