@@ -194,7 +194,7 @@
         "titleBar.activeBackground": "#272821",
         "titleBar.activeForeground": "#D4D4D4",
         "titleBar.border": "#20211c",
-        "titleBar.inactiveBackground": "#444444",
+        "titleBar.inactiveBackground": "#272821",
         "titleBar.inactiveForeground": "#777777",
         "widget.shadow": "#272821",
         "notebook.cellBorderColor": "#444444",
